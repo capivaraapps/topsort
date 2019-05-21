@@ -8,7 +8,8 @@ Apresentar  uma  aula  de 10minutos  sobre  um método  de  ordenação.A  aula 
 
 Para testar o aplicativo online acessar https://repl.it/@PabloRufat/TopologicalSort
 
-
+## Autores
 
 Marcos Henrique Lordelo Marques
+
 Pablo Rufat Muñoz
